@@ -10,7 +10,7 @@ app.use(cors())
 app.use(express.json())
 
 //Servidor App
-app.listen(3333, () =>{
+app.listen(8888, () =>{
     console.log("Servidor iNICIADO")
 })
 
